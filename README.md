@@ -43,7 +43,11 @@ This project analyzes the non-historical food delivery data from students at III
 ## Screenshots
 
 - Bar charts displaying food type frequency and restaurant expenditure.
+  ![bar](https://github.com/user-attachments/assets/c7da5d59-8f58-4f4c-82e9-087049d3753b)
+
 - Line graphs showing daily order patterns.
+  ![line](https://github.com/user-attachments/assets/1b84d938-8098-4ded-82a4-1d870464c115)
+
 
 ## Conclusion
 The analysis revealed significant trends in student ordering behavior, highlighting opportunities for restaurants to optimize pricing and tailor their offerings based on student preferences.
